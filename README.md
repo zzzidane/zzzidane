@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**zzzidane/zzzidane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Front-End Débutant
+Passionné par le développement web, je suis un développeur front-end débutant avec une forte motivation pour apprendre et évoluer dans ce domaine.
 
-Here are some ideas to get you started:
+Compétences :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML
+CSS
+Javascript
+Github
+
+Envie d'apprendre :
+React.js
+Angular.js
+Figma etc
+
+Objectifs :
+
+Développer mes compétences en front-end et devenir un développeur confirmé.
+Contributeur à des projets open-source.
+Intégrer une équipe de développement web dynamique et innovante.
+Apprendre
+S'adapter
+Persévérer
+
+  
